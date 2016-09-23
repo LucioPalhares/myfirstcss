@@ -1,1 +1,22 @@
-right{display:inline-block}
+#page {background-color:lightgrey;
+}
+#logoLink{color:black;
+font-family:arial;
+}
+.right{display:inline-block
+}
+ul {
+text-align:center;
+margin:0;
+padding:0px;
+width:200px;
+height:60px;
+float:right
+}
+a{color:white;
+text-decoration:none;
+text-align:center;
+}
+li{border:2px solid lightgrey;
+background-color:blue;
+}
