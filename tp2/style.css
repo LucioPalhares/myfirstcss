@@ -3,20 +3,28 @@
 #logoLink{color:black;
 font-family:arial;
 }
-.right{display:inline-block
-}
-ul {
-text-align:center;
-margin:0;
-padding:0px;
-width:200px;
-height:60px;
-float:right
+#Content{background-color:white;
+margin:100 70 100 70;
+padding:10px;
+box-shadow:3px 2px grey;
 }
 a{color:white;
 text-decoration:none;
 text-align:center;
 }
-li{border:2px solid lightgrey;
+li{border:1px solid lightgrey;
 background-color:blue;
+text-align:center;
+margin:0;
+padding:2px;
+width:100px;
+height:60px;
+display:inline-block;
+float:right
+}
+h2{color:blue
+}
+#footer {text-align:right
+}
+ul li:hover{background-color:lightblue;
 }
