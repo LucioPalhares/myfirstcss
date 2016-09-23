@@ -1,24 +1,27 @@
+#nav{float:right;
+}
 #page {background-color:lightgrey;
 }
 #logoLink{color:black;
 font-family:arial;
+float:left;
 }
 #Content{background-color:white;
 margin:100 70 100 70;
 padding:10px;
 box-shadow:3px 2px grey;
+clear:both;
 }
 a{color:white;
 text-decoration:none;
 text-align:center;
+padding:20px;
+display:inline-block;
 }
-li{border:1px solid lightgrey;
-background-color:blue;
+li{
 text-align:center;
 margin:0;
-padding:2px;
 width:100px;
-height:60px;
 display:inline-block;
 float:right
 }
@@ -26,5 +29,10 @@ h2{color:blue
 }
 #footer {text-align:right
 }
-ul li:hover{background-color:lightblue;
+#nav  a:hover{background-color:lightblue;
+text-decoration:underline;
 }
+#nav a{background-color:blue;
+border:1px solid lightgrey;
+}
+body{background-color:lightgrey}
