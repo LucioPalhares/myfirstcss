@@ -12,9 +12,9 @@
 <a href="/" id="logolink">Minha Primeira Página</a>
 </h1>
 <ul>
-  </a><li class="right"><a href="#home">Home</a></li>
-  <li class="right"><a href="#contato">Contato</a></li>
-  <li class="right"><a href="#sobre">Sobre</a></li>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#contato">Contato</a></li>
+  <li><a href="#sobre">Sobre</a></li>
 </ul>
 </div>
 <div id="content">
@@ -24,7 +24,7 @@
 </div>
 <div id="footer">
 <p>
-webpage by[Lúcio Palhares]</a>
+WEBPAGE BY[Lúcio Palhares]
 </p>
 </div>
 </div>
